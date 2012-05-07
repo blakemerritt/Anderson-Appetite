@@ -1,0 +1,20 @@
+----- 2011-04-22 15:22:17: Job 'Au Eats Form': ANALYSIS started by User on computer 'Blake-Merritts-MacBook-Pro.local' (GoodSync 1.7.8.0 on ) -----
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Exclude /cssstuff.css|licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|/System Volume Information|Thumbs.db|.DS_Store 
+Left: Reading State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Left: Files: 20 (excluded 2). Folders: 1 (excluded 1). /dev/disk0s2 HFS, Free: 11165M, Total: 249715M
+Right: Reading State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Right: Files: 20 (excluded 1). Folders: 1 (excluded 1). FTP: DreamHost FTP Server
+/detail.php: Conflict: File Modified on Both Sides
+Changes: 1, Conflicts: 1, CopyTime: 0, CopyState: 0, Errors: 0
+----- 2011-04-22 15:22:21: Analysis Completed. Time 00:00:05, Speed: 4 files/s -----
+
+===== 2011-04-22 15:22:24: Job 'Au Eats Form': SYNC started by User on computer 'Blake-Merritts-MacBook-Pro.local' =====
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+/detail.php: unresolved conflict results in No Copy
+Save State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Save State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Sync finished with 1 errors. Click Errors button to see sync errors
+Items Synced OK: 0, Errors: 1
+===== 2011-04-22 15:22:27: Sync Completed. Time: 00:00:04, Speed: 24K/s =====
+

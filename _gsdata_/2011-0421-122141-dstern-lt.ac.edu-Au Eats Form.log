@@ -1,0 +1,19 @@
+----- 2011-04-21 12:21:43: Job 'Au Eats Form': ANALYSIS started by User on computer 'dstern-lt.ac.edu' (GoodSync 1.7.8.0 on ) -----
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Exclude /cssstuff.css|licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|/System Volume Information|Thumbs.db|.DS_Store 
+Left: Reading State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Left: Files: 10 (excluded 2). Folders: 0 (excluded 1). /dev/disk0s2 HFS, Free: 11205M, Total: 249715M
+Right: Reading State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Right: Files: 10 (excluded 1). Folders: 0 (excluded 1). FTP: DreamHost FTP Server
+Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0, Errors: 0
+Left to Right: Copy File: 1 
+----- 2011-04-21 12:21:47: Analysis Completed. Time 00:00:06, Speed: 2 files/s -----
+
+===== 2011-04-21 12:21:49: Job 'Au Eats Form': SYNC started by User on computer 'dstern-lt.ac.edu' =====
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Copy Over '/COM 315/Anderson Appetite/category.php' -> 'ftp://commajor.com/com315/aueats/category.php'
+Save State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Save State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Items Synced OK: 1, Errors: 0
+===== 2011-04-21 12:21:53: Sync Completed. Time: 00:00:06, Speed: 0/s =====
+

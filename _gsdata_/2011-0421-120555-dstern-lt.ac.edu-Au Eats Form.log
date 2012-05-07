@@ -1,0 +1,20 @@
+----- 2011-04-21 12:05:58: Job 'Au Eats Form': ANALYSIS started by User on computer 'dstern-lt.ac.edu' (GoodSync 1.7.8.0 on ) -----
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Exclude licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|/System Volume Information|Thumbs.db|.DS_Store 
+Left: Reading State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Left: Files: 10 (excluded 1). Folders: 0 (excluded 1). /dev/disk0s2 HFS, Free: 11206M, Total: 249715M
+Right: Reading State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Right: Files: 11 (excluded 0). Folders: 0 (excluded 1). FTP: DreamHost FTP Server
+/cssstuff.css: Conflict: File Modified on Both Sides
+Changes: 1, Conflicts: 1, CopyTime: 0, CopyState: 0, Errors: 0
+----- 2011-04-21 12:06:38: Analysis Completed. Time 00:00:43, Speed: 0 files/s -----
+
+===== 2011-04-21 12:06:49: Job 'Au Eats Form': SYNC started by User on computer 'dstern-lt.ac.edu' =====
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+/cssstuff.css: unresolved conflict results in No Copy
+Save State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Save State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Sync finished with 1 errors. Click Errors button to see sync errors
+Items Synced OK: 0, Errors: 1
+===== 2011-04-21 12:06:52: Sync Completed. Time: 00:00:10, Speed: 16K/s =====
+

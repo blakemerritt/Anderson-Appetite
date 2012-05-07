@@ -1,0 +1,9 @@
+===== 2011-04-22 15:44:13: Job 'Au Eats Form': SYNC started by User on computer 'Blake-Merritts-MacBook-Pro.local' =====
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+/detail.php: unresolved conflict results in No Copy
+Save State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Save State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Sync finished with 1 errors. Click Errors button to see sync errors
+Items Synced OK: 0, Errors: 1
+===== 2011-04-22 15:44:17: Sync Completed. Time: 00:00:06, Speed: 4096/s =====
+

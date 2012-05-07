@@ -1,0 +1,131 @@
+body {
+	background-color: #653614; 
+	margin: 0 auto;
+	font-size: small;
+	width: 1000px;
+	}
+	
+#header {
+	background-color: #653614; 
+	margin: 20px;
+	height: 195px;
+}
+
+#footer {
+	background-color: #653614; 
+	margin: 60px;
+	height: 40px;
+	vertical-align: bottom;
+	text-align: right;
+}
+	
+#allcontent { 
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #653614;
+
+}
+
+#content {
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+#sidebar {
+	width: 350px;
+	float: right;
+	
+}
+
+#sidebar p:first-child {
+	margin-top:0px;
+}
+
+#about {
+	float: right;
+	width: 350px;
+	font-size: 18px;
+}
+
+a:link {
+	color: #FFF;
+	text-decoration:none;
+}
+	
+a:visited {
+	color: #FFF;
+	text-decoration:none;
+}
+
+a:hover {
+	color: #FFF;
+}
+
+
+h1 { 
+	color: #FBCC34;
+	font-family: helvetica, sans-serif;
+	font-size: 25px;
+}
+
+p { 
+	color: #FBCC34;
+	font-family: garamond, serif;
+	font-size: 16px;
+	
+	}
+
+h2 {
+	color: #FBCC34;
+	font-family: helvetica, sans-serif;
+	font-size: 200%;
+	}
+.bio {
+	color: #653614;
+	font-size: 100%;
+	}
+	
+
+table {
+	list-style-type: none;
+	background-color:  #653614; 
+	border: medium solid #FBCC34;	
+	border-collapse: collapse;
+	vertical-align: text-top;
+	width: 500px;
+
+}
+
+td, th {
+	border: thin dotted #FBCC34;
+	padding: 20px;
+	width: 300px;
+	vertical-align: text-top;
+}
+
+th {
+	color: #653614;
+	font-family: helvetica, sans-serif;
+	font-size: 20px;
+	background-color: #ED8825;
+	padding: 20px;
+	vertical-align: text-top;
+}
+
+td {
+	list-style-type: none;
+	color: #00CCFF;
+	font-size: 18px;
+	}
+	
+li { 
+	color: #FBCC34;
+	font-size: 18px;
+	padding-top:;
+	margin-left:;
+	list-style-type: none;
+}
+
+#hometag {
+	font-size: 20px;
+}

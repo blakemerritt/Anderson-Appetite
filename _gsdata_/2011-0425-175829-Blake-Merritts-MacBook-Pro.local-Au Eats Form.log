@@ -1,0 +1,23 @@
+----- 2011-04-25 17:58:36: Job 'Au Eats Form': ANALYSIS started by User on computer 'Blake-Merritts-MacBook-Pro.local' (GoodSync 1.7.8.0 on ) -----
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Exclude /cssstuff.css|licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|/System Volume Information|Thumbs.db|.DS_Store 
+Left: Reading State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Left: Files: 75 (excluded 2). Folders: 1 (excluded 1). /dev/disk0s2 HFS, Free: 11578M, Total: 249715M
+Right: Reading State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Right: Files: 71 (excluded 1). Folders: 1 (excluded 1). FTP: DreamHost FTP Server
+Changes: 5, Conflicts: 0, CopyTime: 0, CopyState: 0, Errors: 0
+Left to Right: Copy File: 5 
+----- 2011-04-25 17:58:50: Analysis Completed. Time 00:00:21, Speed: 3 files/s -----
+
+===== 2011-04-25 17:59:08: Job 'Au Eats Form': SYNC started by User on computer 'Blake-Merritts-MacBook-Pro.local' =====
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Copy New '/COM 315/Anderson Appetite/Pictures/crackerbarrel.jpg' -> 'ftp://commajor.com/com315/aueats/Pictures/crackerbarrel.jpg'
+Copy New '/COM 315/Anderson Appetite/Pictures/osaka.jpg' -> 'ftp://commajor.com/com315/aueats/Pictures/osaka.jpg'
+Copy New '/COM 315/Anderson Appetite/Pictures/outback.jpg' -> 'ftp://commajor.com/com315/aueats/Pictures/outback.jpg'
+Copy New '/COM 315/Anderson Appetite/Pictures/subway.jpg' -> 'ftp://commajor.com/com315/aueats/Pictures/subway.jpg'
+Copy Over '/COM 315/Anderson Appetite/detail.php' -> 'ftp://commajor.com/com315/aueats/detail.php'
+Save State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Save State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Items Synced OK: 5, Errors: 0
+===== 2011-04-25 17:59:59: Sync Completed. Time: 00:01:08, Speed: 0/s =====
+

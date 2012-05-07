@@ -1,0 +1,33 @@
+----- 2011-04-24 14:19:15: Job 'Au Eats Form': ANALYSIS started by User on computer 'Blake-Merritts-MacBook-Pro.local' (GoodSync 1.7.8.0 on ) -----
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Exclude /cssstuff.css|licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|/System Volume Information|Thumbs.db|.DS_Store 
+Left: Reading State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Left: Files: 63 (excluded 2). Folders: 1 (excluded 1). /dev/disk0s2 HFS, Free: 9173M, Total: 249715M
+Right: Reading State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Right: Files: 51 (excluded 1). Folders: 1 (excluded 1). FTP: DreamHost FTP Server
+/detail.php: Conflict: File Modified on Both Sides
+Changes: 13, Conflicts: 1, CopyTime: 0, CopyState: 0, Errors: 0
+Left to Right: Copy File: 12 
+----- 2011-04-24 14:19:19: Analysis Completed. Time 00:00:05, Speed: 13 files/s -----
+
+===== 2011-04-24 14:19:21: Job 'Au Eats Form': SYNC started by User on computer 'Blake-Merritts-MacBook-Pro.local' =====
+Au Eats Form: /COM 315/Anderson Appetite <-> ftp://commajor.com/com315/aueats, SavePrevVers=30d, TmpDest, EstReq, CopyLocked, FileLinksDrill, CaseSens, Reconnect=3, ChangeLimit=10
+Copy New '/COM 315/Anderson Appetite/Pictures/cornerbagel.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/cornerbagel.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/ecity.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/ecity.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/jcs.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/jcs.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/jpeters.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/jpeters.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/mainstreetdeli.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/mainstreetdeli.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/mattys.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/mattys.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/mcgees.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/mcgees.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/sullivans.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/sullivans.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/summajoes.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/summajoes.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/thefox.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/thefox.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/uptownlounge.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/uptownlounge.JPG'
+Copy New '/COM 315/Anderson Appetite/Pictures/yogo.JPG' -> 'ftp://commajor.com/com315/aueats/Pictures/yogo.JPG'
+/detail.php: unresolved conflict results in No Copy
+Save State File /COM 315/Anderson Appetite/_gsdata_/_file_state._gs
+Save State File ftp://commajor.com/com315/aueats/_gsdata_/_file_state._gs
+Sync finished with 1 errors. Click Errors button to see sync errors
+Items Synced OK: 12, Errors: 1
+===== 2011-04-24 14:20:28: Sync Completed. Time: 00:01:08, Speed: 389K/s =====
+
